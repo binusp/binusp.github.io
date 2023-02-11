@@ -11,6 +11,8 @@ body{
 
 h1{
   font-family: 'Caveat', cursive;
+  color: rgb(234, 213, 224);
+  text-shadow: 1px 1px 1px #000;
   font-size: 60px;
   margin-bottom: 0;
 }
